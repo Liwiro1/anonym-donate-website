@@ -146,6 +146,9 @@ sudo service tor start
 cat /var/lib/tor/hidden_service/hostname
 
 
+
+Images
+-----------------------------------------
 ![mainpage](https://github.com/user-attachments/assets/049ef734-30bd-432f-a196-d4fbea8b0f6e)
 Main Page
 
